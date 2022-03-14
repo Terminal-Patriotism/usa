@@ -12,7 +12,6 @@ setup(
 
     url = "https://github.com/AitzazImtiaz/usa-flag-terminal",
 
-    packages = ["usa"],
 
     entry_points = {
 
