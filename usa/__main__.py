@@ -1,5 +1,6 @@
+from colorama import fore
 def main():
-    print("""
+    print(Fore.GREEN+"""
     |* * * * * * * * * * OOOOOOOOOOOOOOOOOOOOOOOOO|
     | * * * * * * * * *  OOOOOOOOOOOOOOOOOOOOOOOOO|
     |* * * * * * * * * * OOOOOOOOOOOOOOOOOOOOOOOOO|
@@ -13,5 +14,5 @@ def main():
     |OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO|
     |OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO|
     |OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO| """)
-    print("IN GOD WE TRUST")
-    print("E Pluribus Unum")
+    print(Fore.BLUE+"IN GOD WE TRUST")
+    print(Fore.RED+"E Pluribus Unum")
