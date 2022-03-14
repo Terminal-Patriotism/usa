@@ -9,7 +9,7 @@ setup(
     packages = ["usa"],
     entry_points = {
         'console_scripts': [
-            'usa = usa.__main__'
+            'usa = usa.__main__:main'
         ]
     },
 )
