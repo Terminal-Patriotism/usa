@@ -1,4 +1,4 @@
-from colorama import fore
+from colorama import Fore
 print(Fore.GREEN+"""
   |* * * * * * * * * * OOOOOOOOOOOOOOOOOOOOOOOOO|
   | * * * * * * * * *  OOOOOOOOOOOOOOOOOOOOOOOOO|
