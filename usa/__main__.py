@@ -1,4 +1,4 @@
-from coloroma import fore
+
 def main():
     print("""
     |* * * * * * * * * * OOOOOOOOOOOOOOOOOOOOOOOOO|
