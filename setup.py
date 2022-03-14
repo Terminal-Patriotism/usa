@@ -4,7 +4,7 @@ setup(
     name = "usa",
     version = "0.1.0",
     description = "Prints USA flag",
-    author = "JeffTheK",
+    author = "AitzazImtiaz",
     url = "https://github.com/Terminal-Patriotism/USA-flag-terminal",
     packages = ["usa"],
     entry_points = {
