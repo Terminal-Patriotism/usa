@@ -18,7 +18,7 @@ setup(
 
         'console_scripts': [
 
-            'usa = usa.__main__:main'
+            'usa = usa.__main__'
 
         ]
 
